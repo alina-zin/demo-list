@@ -1,7 +1,6 @@
 import './App.css';
 import {useState, useEffect} from 'react';
 
-
 function App() {
   const [names, setNames] = useState([]);
 
